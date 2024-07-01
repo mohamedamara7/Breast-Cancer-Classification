@@ -1,6 +1,6 @@
-# Breast Cancer Detection
+# Breast Cancer Classification
 
-This repository contains the code and resources for the Breast Cancer Detection project. The goal of this project is to accurately classify breast cancer histology images using an ensemble of three different deep learning architectures. The model is trained on the BACH: Breast Cancer Histology images dataset and achieves an accuracy of 90%, which is 3% higher than the competition.
+This repository contains the code and resources for the Breast Cancer Classification project. The goal of this project is to accurately classify breast cancer histology images using an ensemble of three different deep learning architectures. The model is trained on the BACH: Breast Cancer Histology images dataset and achieves an accuracy of 90%, which is 3% higher than the competition.
 
 ## Table of Contents
 
